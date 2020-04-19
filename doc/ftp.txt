@@ -1,0 +1,6 @@
+default
+httpd
+keepalived
+mariadb
+nginx
+pub
